@@ -97,15 +97,3 @@ After running the script, the `results/` folder is created:
 - `confusion_matrix.png`: a plot showing correct and incorrect predictions by class.
 
 The exact accuracy can vary if you change the model or split. Do not claim a result you have not obtained by running the code.
-
-## 8. Try improvements
-
-For extra learning or to make the project more complete:
-- Compare Logistic Regression with Decision Tree, K-Nearest Neighbors, or Random Forest.
-- Change `test_size=0.20` and compare results.
-- Try predictions using different flower measurements.
-- Explain accuracy, precision, recall, F1-score, and the confusion matrix in your project presentation.
-
-## 9. Important note
-
-This is an educational baseline model, not a production system. Its results apply to the small Iris dataset and should not be generalized to unrelated flower data without validation.
